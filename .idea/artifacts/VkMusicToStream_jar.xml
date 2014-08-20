@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VkMusicToStream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VkMusicToStream_jar</output-path>
+    <root id="archive" name="VkMusicToStream.jar">
+      <element id="module-output" name="VkMusicToStream" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/EasyEMIDI.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
